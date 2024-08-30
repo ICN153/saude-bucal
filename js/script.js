@@ -21,3 +21,4 @@ function menuSite(){
 //Evento
 //ap clicar no btnMenu será acionada a FUNÇÃO menuSite
 btnMenu.addEventListener('click', menuSite);
+
